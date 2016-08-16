@@ -1,0 +1,14 @@
+{
+	"category" : "Locations2csv-External-InterfaceAdapter-Web",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "vitor 5/26/2016 17:11",
+	"instvars" : [
+		"backingDictionary" ],
+	"name" : "SuggestionGoEuro",
+	"pools" : [
+		 ],
+	"super" : "Suggestion",
+	"type" : "normal" }

@@ -1,0 +1,1 @@
+I am the realization of a suggestion obtained from the goeuro website. I am made up of a dictionary  containing information converted by me to those required by my super class.  

@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"mockReturnListOfJsonSugestions:" : "vitor 5/25/2016 19:08",
+		"newDictionaryDorId:name:type:latitude:longitude:" : "vitor 5/26/2016 18:20",
+		"setUp" : "vitor 5/25/2016 23:39",
+		"testFilteringButGettingNoSuggestions" : "vitor 5/22/2016 20:49",
+		"testFilteringGettingNSuggestions" : "vitor 5/26/2016 18:22",
+		"testFilteringGettingOneSuggestion" : "vitor 5/25/2016 19:17",
+		"testNOtProvidingCityAtAll" : "vitor 5/25/2016 23:39",
+		"testWithEmptyCity" : "vitor 5/22/2016 20:45",
+		"testWithNilCity" : "vitor 5/22/2016 20:38",
+		"testWithNilZnClient" : "vitor 5/25/2016 23:39" } }

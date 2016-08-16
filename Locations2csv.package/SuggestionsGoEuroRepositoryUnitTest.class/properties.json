@@ -1,0 +1,15 @@
+{
+	"category" : "Locations2csv-Tests-External-InterfaceAdapter-Web",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"suggestionRepositoryBuilder",
+		"znClientMock" ],
+	"name" : "SuggestionsGoEuroRepositoryUnitTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

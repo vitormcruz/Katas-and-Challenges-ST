@@ -1,0 +1,4 @@
+accessing
+longitude
+
+	^ self subclassResponsibility.

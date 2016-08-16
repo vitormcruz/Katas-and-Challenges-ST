@@ -1,0 +1,1 @@
+I represent a collection that is backed by the goeuro website. Other than filtering by city using the forCity: message, I act just like an ordinary read only collection, i.e., you can consult and filter information from me, but you can't add or remove elementos from me. 

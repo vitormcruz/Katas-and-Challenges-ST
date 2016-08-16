@@ -1,0 +1,17 @@
+{
+	"category" : "Locations2csv-External-InterfaceAdapter-Web",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "vitor 5/26/2016 17:13",
+	"instvars" : [
+		"suggestions",
+		"serviceURL",
+		"znClient",
+		"csvPath" ],
+	"name" : "SuggestionsGoEuroRepository",
+	"pools" : [
+		 ],
+	"super" : "Collection",
+	"type" : "normal" }

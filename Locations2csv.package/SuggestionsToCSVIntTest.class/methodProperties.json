@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"directoryForTest" : "vitor 5/26/2016 12:30",
+		"locationFromCsvFile:" : "vitor 5/26/2016 16:51",
+		"locations" : "vitor 5/26/2016 16:22",
+		"setUp" : "vitor 5/26/2016 12:30",
+		"tearDown" : "vitor 5/26/2016 16:41",
+		"testConvertLocationsFromGoEuroToCsv" : "vitor 5/26/2016 16:55" } }

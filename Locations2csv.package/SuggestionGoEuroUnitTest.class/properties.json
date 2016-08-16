@@ -1,0 +1,14 @@
+{
+	"category" : "Locations2csv-Tests-External-InterfaceAdapter-Web",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SuggestionGoEuroUnitTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

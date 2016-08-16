@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationOfLocations2csv",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LastVersionLoad" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"project" ],
+	"name" : "ConfigurationOfLocations2csv",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

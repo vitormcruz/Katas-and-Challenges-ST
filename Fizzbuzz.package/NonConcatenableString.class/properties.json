@@ -1,0 +1,14 @@
+{
+	"category" : "Fizzbuzz",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "vitor 5/11/2016 13:48",
+	"instvars" : [
+		"backingString" ],
+	"name" : "NonConcatenableString",
+	"pools" : [
+		 ],
+	"super" : "String",
+	"type" : "normal" }

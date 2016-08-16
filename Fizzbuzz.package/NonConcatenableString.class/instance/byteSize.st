@@ -1,0 +1,3 @@
+accessing
+byteSize
+	^backingString byteSize.

@@ -1,0 +1,1 @@
+I am a tweet backed by a NEOJson dictionary created from the json obtained througth the uso of Twitter Rest API.

@@ -1,0 +1,14 @@
+{
+	"category" : "TwitterChallenge-Tests-ExternalAdapter-TwitterRestConsumer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "DictionaryTweetUnitTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

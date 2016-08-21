@@ -1,0 +1,14 @@
+{
+	"category" : "TwitterChallenge-ExternalAdapter-TwitterRestConsumer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "vitor 8/21/2016 13:54",
+	"instvars" : [
+		"tweetDictionary" ],
+	"name" : "DictionaryTweet",
+	"pools" : [
+		 ],
+	"super" : "Tweet",
+	"type" : "normal" }

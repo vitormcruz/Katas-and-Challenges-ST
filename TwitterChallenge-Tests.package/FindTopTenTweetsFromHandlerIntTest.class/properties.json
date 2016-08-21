@@ -1,0 +1,14 @@
+{
+	"category" : "TwitterChallenge-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "FindTopTenTweetsFromHandlerIntTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

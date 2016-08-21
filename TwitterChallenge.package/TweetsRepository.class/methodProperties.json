@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"forHandler:" : "vitor 8/20/2016 21:22" },
+	"instance" : {
+		"add:" : "vitor 8/20/2016 22:41",
+		"handler:" : "vitor 8/20/2016 21:22",
+		"hashesTop:" : "vitor 8/20/2016 21:55",
+		"initialize" : "vitor 8/21/2016 00:40",
+		"remove:ifAbsent:" : "vitor 8/20/2016 22:41" } }

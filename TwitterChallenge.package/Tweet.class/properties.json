@@ -1,0 +1,14 @@
+{
+	"category" : "TwitterChallenge",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "vitor 8/21/2016 13:42",
+	"instvars" : [
+		 ],
+	"name" : "Tweet",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

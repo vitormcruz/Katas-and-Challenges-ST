@@ -1,0 +1,15 @@
+{
+	"category" : "TwitterChallenge-Tests-ExternalAdapter-TwitterRestConsumer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "vitor 8/21/2016 15:33",
+	"instvars" : [
+		"hashList",
+		"tweetText" ],
+	"name" : "DictionaryTweetBuilder",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

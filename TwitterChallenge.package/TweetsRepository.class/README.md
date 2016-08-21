@@ -1,0 +1,1 @@
+I am an abstract repository for Twitter (https://twitter.com/)  tweets. My implementation should provide the do: and size messages.

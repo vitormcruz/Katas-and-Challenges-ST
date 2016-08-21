@@ -1,0 +1,14 @@
+{
+	"category" : "TwitterChallenge-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"underlyingTweets" ],
+	"name" : "TweetsRepositoryMock",
+	"pools" : [
+		 ],
+	"super" : "TweetsRepository",
+	"type" : "normal" }

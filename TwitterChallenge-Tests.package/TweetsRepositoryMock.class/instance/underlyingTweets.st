@@ -1,3 +1,3 @@
 accessing
 underlyingTweets
-	^ underlyingTweets
+	^ underlyingTweets.

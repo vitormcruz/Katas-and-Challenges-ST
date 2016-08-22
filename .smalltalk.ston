@@ -2,7 +2,7 @@ SmalltalkCISpec {
   #loading : [
 	SCIMetacelloLoadSpec {
 		#configuration : 'TwitterChallenge',                       
-		#directory : 'TwitterChallenge-ExternalConfig.package/ConfigurationOfTwitterChallenge.class/',                          
+		#directory : 'TwitterChallenge-ExternalConfig.package/',
 		#platforms : [ #pharo ]
 	}
   ]

@@ -1,0 +1,14 @@
+{
+	"category" : "LanguageExtension",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"target" ],
+	"name" : "Chain",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

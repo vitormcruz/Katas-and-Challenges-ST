@@ -1,4 +1,11 @@
 accessing
 hashesTop: anInteger 
-	((((self flatCollect: [ :tweet | tweet hashes ]) groupedBy: #yourself) collect: [ :it | it size ]) associations sorted: [ :first :second | first value > second value ]) firstAvailable: 10.
+	^ self chain flatCollect: [ :tweet | tweet hashes ]; 
+					 groupedBy: #yourself; 
+					 collect: [ :hashGroup | hashGroup size ]; 
+					 associations; 
+					 sorted: [ :firstHashGroup :secondHashGroup | firstHashGroup value > secondHashGroup value ];
+					 collect: [ :hashGroup | hashGroup key ];
+					 firstAvailable: 10.
+
 	

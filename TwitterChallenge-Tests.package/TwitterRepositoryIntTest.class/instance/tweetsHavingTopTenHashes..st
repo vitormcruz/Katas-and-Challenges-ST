@@ -1,4 +1,4 @@
-as yet unclassified
+test utility
 tweetsHavingTopTenHashes: topTenHashes 
 	| tweets |
 	

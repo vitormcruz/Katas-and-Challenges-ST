@@ -6,8 +6,7 @@
 		 ],
 	"commentStamp" : "vitor 8/20/2016 23:02",
 	"instvars" : [
-		"handlerId",
-		"delegatedColletion" ],
+		"handlerId" ],
 	"name" : "TweetsRepository",
 	"pools" : [
 		 ],

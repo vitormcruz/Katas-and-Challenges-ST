@@ -4,6 +4,6 @@ os:
   - linux
 smalltalk:
   - Pharo-5.0
- smalltalk_config:
+smalltalk_config:
   - Locations2csv.ston
   - TwitterChallenge.ston

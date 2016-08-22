@@ -1,9 +1,0 @@
-SmalltalkCISpec {
-  #loading : [
-    SCIMetacelloLoadSpec {
-      #baseline : 'TwitterChallenge',
-      #directory : repository',
-      #platforms : [ #pharo ]
-    }
-  ]
-}

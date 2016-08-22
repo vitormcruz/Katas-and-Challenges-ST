@@ -3,6 +3,6 @@
 Katas and Challenges implemented in Pharo Smalltalk:
 
 1. FizzBuzz
-2. https://github.com/goeuro/dev-test solved in Pharo Smalltalk
+2. https://github.com/goeuro/dev-test solved in Pharo Smalltalk   [![Build Status](https://travis-ci.org/vitormcruz/Katas-and-Challenges-ST.svg?branch=master)](https://travis-ci.org/vitormcruz/Katas-and-Challenges-ST)
 
 

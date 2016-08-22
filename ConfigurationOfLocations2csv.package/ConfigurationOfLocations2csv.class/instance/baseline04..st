@@ -1,11 +1,10 @@
 baselines
-baseline03: spec
-	<version: '0.3-baseline'>
+baseline04: spec
+	<version: '0.4-baseline'>
 
 	spec for: #'common' do: [
 		spec blessing: #'baseline'.
-		spec repository: 'filetree://E:\Projetos\Katas-and-Challenges-ST'.
-		spec repository: 'http://smalltalkhub.com/mc/vitormcruz/Katas-and-Challenges/main'.
+		spec repository: 'http://smalltalkhub.com/mc/vitormcruz/Katas-and-Challenges/main/'.
 		spec 
 			project: 'Mocketry' with: [
 				spec

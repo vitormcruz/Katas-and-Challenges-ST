@@ -1,8 +1,7 @@
 SmalltalkCISpec {
   #loading : [
 	SCIMetacelloLoadSpec {
-		#configuration : 'TwitterChallenge',                       
-		#directory : 'TwitterChallenge-ExternalConfig.package/',
+		#configuration : 'Locations2csv',
 		#platforms : [ #pharo ]
 	}
   ]

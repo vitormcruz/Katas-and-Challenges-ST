@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationOfTwitterChallenge",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LastVersionLoad" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"project" ],
+	"name" : "ConfigurationOfTwitterChallenge",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationOfLanguageExtension",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LastVersionLoad" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"project" ],
+	"name" : "ConfigurationOfLanguageExtension",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

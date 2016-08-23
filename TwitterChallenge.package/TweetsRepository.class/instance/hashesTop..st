@@ -6,6 +6,6 @@ hashesTop: anInteger
 					 associations; 
 					 sorted: [ :firstHashGroup :secondHashGroup | firstHashGroup value > secondHashGroup value ];
 					 collect: [ :hashGroup | hashGroup key ];
-					 firstAvailable: 10.
+					 firstAvailable: anInteger.
 
 	

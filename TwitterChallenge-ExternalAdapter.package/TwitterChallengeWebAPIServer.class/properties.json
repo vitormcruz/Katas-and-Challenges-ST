@@ -1,13 +1,13 @@
 {
-	"category" : "LanguageExtension-ExternalConfig",
+	"category" : "TwitterChallenge-ExternalAdapter-WebAPI",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
-		"LastVersionLoad" ],
+		"Server" ],
 	"commentStamp" : "",
 	"instvars" : [
-		"project" ],
-	"name" : "ConfigurationOfLanguageExtension",
+		"teapot" ],
+	"name" : "TwitterChallengeWebAPIServer",
 	"pools" : [
 		 ],
 	"super" : "Object",

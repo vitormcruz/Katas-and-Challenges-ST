@@ -1,0 +1,10 @@
+SmalltalkCISpec {
+  #loading : [
+	SCIMetacelloLoadSpec {
+		#configuration : 'TwitterChallenge',
+		#directory : '.',
+		#platforms : [ #pharo ]
+	}
+  ]
+}
+

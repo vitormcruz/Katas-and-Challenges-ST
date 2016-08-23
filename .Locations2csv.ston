@@ -1,9 +1,9 @@
 SmalltalkCISpec {
   #loading : [
-    SCIMetacelloLoadSpec {
-      #configuration: 'TwitterChallenge',
-      #directory : repository',
-      #platforms : [ #pharo ]
-    }
+	SCIMetacelloLoadSpec {
+		#configuration : 'Locations2csv',
+		#directory : '.',
+		#platforms : [ #pharo ]
+	}
   ]
 }

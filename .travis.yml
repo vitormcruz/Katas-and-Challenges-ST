@@ -4,6 +4,7 @@ os:
   - linux
 smalltalk:
   - Pharo-5.0
-smalltalk_config:
-  - locations2csv.ston
-  - twitterchallenge.ston
+matrix:
+  include:
+     smalltalk_config: .locations2csv.ston
+     smalltalk_config: .twitterchallenge.ston

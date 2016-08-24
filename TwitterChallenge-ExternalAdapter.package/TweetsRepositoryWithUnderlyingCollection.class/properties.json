@@ -1,0 +1,14 @@
+{
+	"category" : "TwitterChallenge-ExternalAdapter-TwitterRestConsumer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TweetsRepositoryWithUnderlyingCollection",
+	"pools" : [
+		 ],
+	"super" : "TweetsRepository",
+	"type" : "normal" }

@@ -1,4 +1,4 @@
 accessing
 hashes
 	
-	^ ((tweetDictionary at: #entities) at: #hashTags) collect: [ :hashAssociation | hashAssociation value ].
+	^ ((tweetDictionary at: #entities) at: #hashtags) collect: [ :hashAssociation | hashAssociation at: #text ].

@@ -4,11 +4,13 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "vitormcruz 8/24/2016 15:34",
 	"instvars" : [
-		 ],
+		"limit",
+		"maxLimit",
+		"underlyingTweetsCache" ],
 	"name" : "TweetsRepositoryRestConsumer",
 	"pools" : [
 		 ],
-	"super" : "TweetsRepository",
+	"super" : "TweetsRepositoryWithUnderlyingCollection",
 	"type" : "normal" }

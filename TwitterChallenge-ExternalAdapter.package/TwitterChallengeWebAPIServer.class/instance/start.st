@@ -1,11 +1,13 @@
 server handling
 start
 	teapot
-		GET: '/handle-analysis/<handle>' -> [ :request |  
-			| tweetsRepository |
-			tweetsRepository := TweetsRepositoryRestConsumer forHandler: (request at: #handle).
-			NeoJSONWriter toString: (tweetsRepository chain first: (request at: 'limit') asInteger; 
-																		  hashesTop: 10).
+		GET: '/handle-analysis/<handle>/toptentags/' -> [ :request | 
+			| limit |
+			limit := (request at: 'limit' ifAbsent: [ nil ]).
+			limit ifNotNil: [limit := limit asInteger].
+			self halt.
+					NeoJSONWriter toString: (tweetsRepositoryClass chain forHandler: (request at: #handle); 
+																						 first: limit;
+																						 hashesTop: 10) 
 		];
 		start
-		

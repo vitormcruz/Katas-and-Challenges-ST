@@ -10,5 +10,5 @@
 	"name" : "TweetsRepositoryMock",
 	"pools" : [
 		 ],
-	"super" : "TweetsRepository",
-	"type" : "variable" }
+	"super" : "TweetsRepositoryWithUnderlyingCollection",
+	"type" : "normal" }

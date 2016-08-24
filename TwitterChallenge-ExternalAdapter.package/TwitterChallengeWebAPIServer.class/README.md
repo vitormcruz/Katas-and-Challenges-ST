@@ -1,0 +1,1 @@
+I am a simple server that responds to the following url /handle-analysis/<handle>/toptentags/ with an optional argument "limit" that limits the number of tweets used to extract the top ten tags.The maximum value of tweets used to determine the top ten hashes is 2000.

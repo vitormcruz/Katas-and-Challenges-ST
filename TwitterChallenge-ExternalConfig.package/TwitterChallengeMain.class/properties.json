@@ -1,13 +1,13 @@
 {
 	"category" : "TwitterChallenge-ExternalConfig",
 	"classinstvars" : [
-		 ],
+		"defaultRun" ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "vitormcruz 8/23/2016 16:28",
 	"instvars" : [
 		 ],
-	"name" : "RepositoryPool",
+	"name" : "TwitterChallengeMain",
 	"pools" : [
 		 ],
 	"super" : "Object",

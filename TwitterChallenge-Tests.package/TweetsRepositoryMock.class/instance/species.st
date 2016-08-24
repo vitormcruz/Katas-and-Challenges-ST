@@ -1,4 +1,0 @@
-private
-species
-
-	^ underlyingTweets species.

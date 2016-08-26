@@ -5,7 +5,6 @@ start
 			| limit |
 			limit := (request at: 'limit' ifAbsent: [ nil ]).
 			limit ifNotNil: [limit := limit asInteger].
-			self halt.
 					NeoJSONWriter toString: (tweetsRepositoryClass chain forHandler: (request at: #handle); 
 																						 first: limit;
 																						 hashesTop: 10) 

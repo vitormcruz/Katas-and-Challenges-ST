@@ -3,7 +3,7 @@ SmalltalkCISpec {
 	SCIMetacelloLoadSpec {
 		#configuration : 'TwitterChallenge',
 		#repository : 'http://smalltalkhub.com/mc/vitormcruz/Katas-and-Challenges/main',
-		#version : 'development',
+		#version : '#development',
 		#platforms : [ #pharo ]
 	}
   ]

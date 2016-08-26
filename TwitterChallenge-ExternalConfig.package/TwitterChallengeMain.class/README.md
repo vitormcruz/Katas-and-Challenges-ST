@@ -1,1 +1,1 @@
-I am the main class for the Twitter Challenge application and I provide methos to start and stop it.
+I am the main class for the Twitter Challenge application and I provide methos to start and stop it, but, mainly, I run the default configuration on startup.

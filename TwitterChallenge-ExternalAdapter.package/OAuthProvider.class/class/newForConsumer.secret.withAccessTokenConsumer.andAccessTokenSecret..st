@@ -1,0 +1,4 @@
+instance creation
+newForConsumer: aConsumerString secret: aConsumerSecretString withAccessTokenConsumer: anAccessTokenConsumerString andAccessTokenSecret: anAccessTokenSecretString
+
+	^ self new newForConsumer: aConsumerString secret: aConsumerSecretString withAccessTokenConsumer: anAccessTokenConsumerString andAccessTokenSecret: anAccessTokenSecretString.

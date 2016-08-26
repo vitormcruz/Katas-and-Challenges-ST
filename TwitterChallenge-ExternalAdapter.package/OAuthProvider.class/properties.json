@@ -1,0 +1,15 @@
+{
+	"category" : "TwitterChallenge-ExternalAdapter-OAuth",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"service",
+		"accessToken" ],
+	"name" : "OAuthProvider",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

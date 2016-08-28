@@ -22,6 +22,12 @@ baseline05: spec
 					versionString: '12';
 					repository: 'http://mc.stfx.eu/Neo';
 					repository: 'http://smalltalkhub.com/mc/Pharo/MetaRepoForPharo50/main/' ];
+			project: 'OSProcess' with: [
+				spec
+					className: #ConfigurationOfOSProcess;
+					versionString: '4.6.4';
+					loads: #('Core' );
+					repository: 'http://smalltalkhub.com/mc/Pharo/MetaRepoForPharo50/main/' ];
 			project: 'Teapot' with: [
 				spec
 					className: #ConfigurationOfTeapot;
@@ -39,6 +45,7 @@ baseline05: spec
 				spec requires: #('LanguageExtension' ). ];
 			package: #'TwitterChallenge-ExternalAdapter' with: [
 				spec requires: #('NeoJSON' 'NeoCSV' 'ZincHTTPComponents' ). ];
-			package: #'TwitterChallenge-ExternalConfig';
+			package: #'TwitterChallenge-ExternalConfig' with: [
+				spec requires: #('OSProcess' ). ];
 			package: #'TwitterChallenge-Tests' with: [
 				spec requires: #(#TwitterChallenge #'TwitterChallenge-ExternalAdapter' ). ]. ].

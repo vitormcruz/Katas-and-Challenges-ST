@@ -2,12 +2,9 @@
 	"class" : {
 		 },
 	"instance" : {
-		"accessTokenConsumerString:" : "vitormcruz 8/26/2016 11:55",
-		"accessTokenSecretString:" : "vitormcruz 8/26/2016 11:55",
-		"consumerSecretString:" : "vitormcruz 8/26/2016 11:55",
-		"consumerString:" : "vitormcruz 8/26/2016 11:55",
-		"initialize" : "vitormcruz 8/26/2016 12:06",
-		"start" : "vitormcruz 8/26/2016 11:53",
+		"initialize" : "vitormcruz 8/26/2016 17:10",
+		"oAuthProvider:" : "vitormcruz 8/26/2016 17:08",
+		"start" : "vitormcruz 8/26/2016 17:08",
 		"stop" : "vitor 8/22/2016 14:06",
 		"teapot" : "vitormcruz 8/26/2016 11:55",
 		"tweetsRepositoryClass" : "vitormcruz 8/23/2016 16:19",

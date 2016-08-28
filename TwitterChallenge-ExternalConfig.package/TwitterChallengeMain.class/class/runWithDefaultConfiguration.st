@@ -1,10 +1,10 @@
 run
 runWithDefaultConfiguration
 
+	| oAuthProvider |
+
 	defaultRun ifNotNil: [defaultRun stop].
+	oAuthProvider := OAuthProvider newForConsumer: consumerString secret: consumerSecretString withAccessTokenConsumer: accessTokenConsumerString andAccessTokenSecret: accessTokenSecretString.
 	defaultRun := TwitterChallengeWebAPIServer new tweetsRepositoryClass: TweetsRepositoryRestConsumer; 
-																 consumerString: consumerString; 
-																 consumerSecretString: consumerSecretString; 
-																 accessTokenConsumerString: accessTokenConsumerString; 
-																 accessTokenSecretString: accessTokenSecretString; 
+																 oAuthProvider: oAuthProvider; 
 																 start.

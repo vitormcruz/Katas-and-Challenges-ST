@@ -8,10 +8,7 @@
 	"instvars" : [
 		"teapot",
 		"tweetsRepositoryClass",
-		"consumerString",
-		"consumerSecretString",
-		"accessTokenConsumerString",
-		"accessTokenSecretString" ],
+		"oauthProvider" ],
 	"name" : "TwitterChallengeWebAPIServer",
 	"pools" : [
 		 ],

@@ -3,12 +3,11 @@
 	"classinstvars" : [
 		"teapot" ],
 	"classvars" : [
-		"Server" ],
+		 ],
 	"commentStamp" : "vitormcruz 8/24/2016 16:46",
 	"instvars" : [
 		"teapot",
-		"tweetsRepositoryClass",
-		"oauthProvider" ],
+		"tweetsRepositoryClass" ],
 	"name" : "TwitterChallengeWebAPIServer",
 	"pools" : [
 		 ],

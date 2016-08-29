@@ -1,4 +1,0 @@
-initialization
-usingConsumer: aConsumerString secret: aConsumerSecretString withAccessTokenConsumer: anAccessTokenConsumerString andAccessTokenSecret: anAccessTokenSecretString
-
-	oauthProvider := OAuthProvider newForConsumer: aConsumerString secret: aConsumerSecretString withAccessTokenConsumer: anAccessTokenConsumerString andAccessTokenSecret: anAccessTokenSecretString.

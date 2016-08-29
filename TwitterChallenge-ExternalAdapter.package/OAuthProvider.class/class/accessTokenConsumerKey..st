@@ -1,0 +1,3 @@
+accessing
+accessTokenConsumerKey: anAccessTokenConsumerKey 
+	accessTokenConsumerKey := anAccessTokenConsumerKey.

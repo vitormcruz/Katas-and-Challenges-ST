@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testFindTop_N_Tweets_With_Ten_Hashes" : "vitormcruz 8/28/2016 23:56",
+		"testFindTop_One_Tweet_With_N_Hashes" : "vitormcruz 8/28/2016 23:48",
+		"testFindTop_One_Tweet_With_One_Hash" : "vitormcruz 8/28/2016 23:24",
+		"testFindTop_TenTweets_With_Ten_Hashes" : "vitormcruz 8/28/2016 23:25",
+		"testFindTop_Two_Tweets_With_N_Hashes" : "vitormcruz 8/28/2016 23:48",
+		"testFindTop_Two_Tweets_With_One_Hashes" : "vitormcruz 8/28/2016 23:55",
+		"testFindTop_Zero_Tweet_With_N_Hashes" : "vitormcruz 8/28/2016 23:49",
+		"tweetsHavingTop_N_Hashes:" : "vitormcruz 8/28/2016 23:22" } }

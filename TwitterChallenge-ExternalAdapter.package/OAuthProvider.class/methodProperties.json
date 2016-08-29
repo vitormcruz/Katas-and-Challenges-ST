@@ -1,6 +1,10 @@
 {
 	"class" : {
-		"newForConsumer:secret:withAccessTokenConsumer:andAccessTokenSecret:" : "vitormcruz 8/26/2016 11:52" },
+		"accessTokenConsumerKey:" : "vitormcruz 8/29/2016 15:07",
+		"accessTokenSecretKey:" : "vitormcruz 8/29/2016 15:08",
+		"consumerSecretKey:" : "vitormcruz 8/29/2016 15:06",
+		"consumerkey:" : "vitormcruz 8/29/2016 15:06" },
 	"instance" : {
+		"getEnvKey:" : "vitormcruz 8/29/2016 15:18",
 		"httpGet:" : "vitormcruz 8/26/2016 11:46",
-		"newForConsumer:secret:withAccessTokenConsumer:andAccessTokenSecret:" : "vitormcruz 8/26/2016 11:52" } }
+		"initialize" : "vitormcruz 8/29/2016 15:24" } }

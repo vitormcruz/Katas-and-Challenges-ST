@@ -3,8 +3,11 @@
 	"classinstvars" : [
 		 ],
 	"classvars" : [
-		 ],
-	"commentStamp" : "",
+		"accessTokenConsumerKey",
+		"accessTokenSecretKey",
+		"consumerKey",
+		"consumerSecretKey" ],
+	"commentStamp" : "vitormcruz 8/28/2016 00:18",
 	"instvars" : [
 		"service",
 		"accessToken" ],

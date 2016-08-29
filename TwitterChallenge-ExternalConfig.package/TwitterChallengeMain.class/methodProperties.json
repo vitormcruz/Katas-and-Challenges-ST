@@ -1,12 +1,8 @@
 {
 	"class" : {
-		"accessTokenConsumerString:" : "vitormcruz 8/26/2016 12:09",
-		"accessTokenSecretString:" : "vitormcruz 8/26/2016 12:09",
-		"consumerSecretString:" : "vitormcruz 8/26/2016 12:09",
-		"consumerString:" : "vitormcruz 8/26/2016 12:09",
-		"initialize" : "vitormcruz 8/26/2016 12:05",
+		"initialize" : "vitormcruz 8/29/2016 15:09",
 		"new" : "vitormcruz 8/23/2016 14:26",
-		"runWithDefaultConfiguration" : "vitormcruz 8/26/2016 17:13",
+		"runWithDefaultConfiguration" : "vitormcruz 8/29/2016 15:04",
 		"startUp" : "vitormcruz 8/26/2016 00:59",
 		"stopDefaultExecution" : "vitormcruz 8/23/2016 16:18" },
 	"instance" : {

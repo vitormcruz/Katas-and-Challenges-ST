@@ -1,11 +1,7 @@
 {
 	"category" : "TwitterChallenge-ExternalConfig",
 	"classinstvars" : [
-		"defaultRun",
-		"consumerString",
-		"consumerSecretString",
-		"accessTokenConsumerString",
-		"accessTokenSecretString" ],
+		"defaultRun" ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "vitormcruz 8/26/2016 01:00",

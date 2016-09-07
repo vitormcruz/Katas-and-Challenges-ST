@@ -34,4 +34,8 @@ Gofer new
 	
 ((Smalltalk at: #ConfigurationOfTwitterChallenge) project version: #stable) load.
 
+Alternativelly you can execute the following linux command line:
+
+./pharo <your image here> config http://smalltalkhub.com/mc/vitormcruz/Katas-and-Challenges/main ConfigurationOfTwitterChallenge --install=stable
+
 The server is started automatically.

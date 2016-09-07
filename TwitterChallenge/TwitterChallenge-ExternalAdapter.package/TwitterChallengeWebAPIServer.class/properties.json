@@ -1,0 +1,15 @@
+{
+	"category" : "TwitterChallenge-ExternalAdapter-WebAPI",
+	"classinstvars" : [
+		"teapot" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "vitormcruz 8/24/2016 16:46",
+	"instvars" : [
+		"teapot",
+		"tweetsServiceClass" ],
+	"name" : "TwitterChallengeWebAPIServer",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

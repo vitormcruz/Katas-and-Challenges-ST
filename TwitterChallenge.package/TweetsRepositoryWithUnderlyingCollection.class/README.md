@@ -1,1 +1,0 @@
-I am an abstract tweets repository that uses an underlyingTweets collection as tweets provider. The method underlyingTweets  must be provided by my subclasses.

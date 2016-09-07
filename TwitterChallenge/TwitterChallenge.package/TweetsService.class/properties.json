@@ -1,0 +1,14 @@
+{
+	"category" : "TwitterChallenge",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "vitormcruz 9/6/2016 19:06",
+	"instvars" : [
+		 ],
+	"name" : "TweetsService",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "variable" }

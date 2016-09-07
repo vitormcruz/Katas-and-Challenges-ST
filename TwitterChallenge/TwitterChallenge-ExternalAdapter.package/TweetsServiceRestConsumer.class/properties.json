@@ -1,0 +1,15 @@
+{
+	"category" : "TwitterChallenge-ExternalAdapter-TwitterRestConsumer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "vitormcruz 8/24/2016 15:34",
+	"instvars" : [
+		"oauthProvider",
+		"MAX_TWEETS_CALL" ],
+	"name" : "TweetsServiceRestConsumer",
+	"pools" : [
+		 ],
+	"super" : "TweetsService",
+	"type" : "variable" }

@@ -1,4 +1,0 @@
-private
-underlyingTweets
-
-	self shouldBeImplemented.

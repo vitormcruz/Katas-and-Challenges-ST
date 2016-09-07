@@ -1,0 +1,1 @@
+I am an abstract TweetsService  (https://twitter.com/)  that provides functionalities concerning fetching and catalog tweets from twitter.

@@ -34,4 +34,4 @@ Gofer new
 	
 ((Smalltalk at: #ConfigurationOfTwitterChallenge) project version: #stable) load.
 
-The server is started automatically
+The server is started automatically.

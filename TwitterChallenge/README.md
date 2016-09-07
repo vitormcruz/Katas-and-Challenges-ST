@@ -17,7 +17,15 @@ Solved the following challenge:
 	
 The URL provided by this challenge is: http://localhost:8080/handle-analysis/<handler>/toptentags/?limit=<number>, the limit param is optional and 2000 is used if not provided.
 
-To install it run:
+To install it, provide an evironment with the following variables:
+
+TWITTER_CHALLENGE_ACCESSTOKEN_CONSUMER
+TWITTER_CHALLENGE_ACCESSTOKEN_SECRET
+TWITTER_CHALLENGE_CONSUMER
+TWITTER_CHALLENGE_SECRET
+TWITTER_CHALLENGE_PORT -- Optional, if not provided 8080 is used.
+
+And run:
 
 Gofer new
     url:'http://smalltalkhub.com/mc/vitormcruz/Katas-and-Challenges/main';
@@ -25,3 +33,5 @@ Gofer new
     load.
 	
 ((Smalltalk at: #ConfigurationOfTwitterChallenge) project version: #stable) load.
+
+The server is started automatically

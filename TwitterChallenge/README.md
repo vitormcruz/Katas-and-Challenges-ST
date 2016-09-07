@@ -32,7 +32,7 @@ And run:
         package: 'ConfigurationOfTwitterChallenge';
         load.
 	
-((Smalltalk at: #ConfigurationOfTwitterChallenge) project version: #stable) load.
+    ((Smalltalk at: #ConfigurationOfTwitterChallenge) project version: #stable) load.
 
 Alternativelly you can execute the following linux command line:
 

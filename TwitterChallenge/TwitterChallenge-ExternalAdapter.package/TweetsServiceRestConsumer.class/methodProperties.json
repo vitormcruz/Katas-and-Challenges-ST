@@ -2,6 +2,8 @@
 	"class" : {
 		 },
 	"instance" : {
-		"fetchLastTweetsUpTo:fromHandler:" : "vitormcruz 9/6/2016 20:48",
+		"fetchLastTweetsUpTo:fromHandler:" : "vitormcruz 9/7/2016 11:48",
 		"initialize" : "vitormcruz 9/6/2016 20:11",
-		"oAuthProvider:" : "vitormcruz 8/30/2016 14:55" } }
+		"nextIdQueryFor:" : "vitormcruz 9/7/2016 12:30",
+		"oAuthProvider:" : "vitormcruz 8/30/2016 14:55",
+		"templateCallFor:" : "vitormcruz 9/7/2016 11:14" } }

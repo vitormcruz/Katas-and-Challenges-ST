@@ -1,3 +1,4 @@
 *TwitterChallenge-accessing
 firstAvailable: anInteger 
-	[^ self first: anInteger] on: SubscriptOutOfBounds do: [ ^self ].
+
+	self size < anInteger ifTrue: [ ^ self ] ifFalse: [ ^ self first: anInteger ].

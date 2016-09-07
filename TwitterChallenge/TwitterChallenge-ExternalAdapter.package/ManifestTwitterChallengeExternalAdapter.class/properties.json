@@ -1,0 +1,14 @@
+{
+	"category" : "TwitterChallenge-ExternalAdapter",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "ManifestTwitterChallengeExternalAdapter",
+	"pools" : [
+		 ],
+	"super" : "PackageManifest",
+	"type" : "normal" }

@@ -19,23 +19,23 @@ The URL provided by this challenge is: http://localhost:8080/handle-analysis/<ha
 
 To install it, provide an evironment with the following variables:
 
-.TWITTER_CHALLENGE_ACCESSTOKEN_CONSUMER
-.TWITTER_CHALLENGE_ACCESSTOKEN_SECRET
-.TWITTER_CHALLENGE_CONSUMER
-.TWITTER_CHALLENGE_SECRET
-.TWITTER_CHALLENGE_PORT -- Optional, if not provided 8080 is used.
+- TWITTER_CHALLENGE_ACCESSTOKEN_CONSUMER
+- TWITTER_CHALLENGE_ACCESSTOKEN_SECRET
+- TWITTER_CHALLENGE_CONSUMER
+- TWITTER_CHALLENGE_SECRET
+- TWITTER_CHALLENGE_PORT -- Optional, if not provided 8080 is used.
 
 And run:
 
-Gofer new
-    url:'http://smalltalkhub.com/mc/vitormcruz/Katas-and-Challenges/main';
-    package: 'ConfigurationOfTwitterChallenge';
-    load.
+    Gofer new
+        url:'http://smalltalkhub.com/mc/vitormcruz/Katas-and-Challenges/main';
+        package: 'ConfigurationOfTwitterChallenge';
+        load.
 	
 ((Smalltalk at: #ConfigurationOfTwitterChallenge) project version: #stable) load.
 
 Alternativelly you can execute the following linux command line:
 
-./pharo <your image here> config http://smalltalkhub.com/mc/vitormcruz/Katas-and-Challenges/main ConfigurationOfTwitterChallenge --install=stable
+    ./pharo <your image here> config http://smalltalkhub.com/mc/vitormcruz/Katas-and-Challenges/main ConfigurationOfTwitterChallenge --install=stable
 
 The server is started automatically.

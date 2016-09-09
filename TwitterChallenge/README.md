@@ -40,6 +40,6 @@ Alternativelly you can execute the following linux command line:
     
 And then:
 
-    ./pharo <your image here> clean --production
+    ./pharo <your image here> --no-quit &
     
 The server is started automatically.

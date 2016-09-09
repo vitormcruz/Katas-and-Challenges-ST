@@ -38,7 +38,8 @@ Alternativelly you can execute the following linux command line:
 
     ./pharo <your image here> config http://smalltalkhub.com/mc/vitormcruz/Katas-and-Challenges/main ConfigurationOfTwitterChallenge --install=stable
     
-And then
+And then:
+
     ./pharo <your image here> clean --production
     
 The server is started automatically.

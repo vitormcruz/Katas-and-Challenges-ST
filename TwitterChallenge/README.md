@@ -15,7 +15,7 @@ Solved the following challenge:
     Example URL: http://{hosting-domain}/handle-analysis?handle=OCriador&limit=1000
 	
 	
-The URL provided by this challenge is: http://localhost:8080/handle-analysis/<handler>/toptentags/?limit=<number>, the limit param is optional and 2000 is used if not provided.
+The URL provided by this challenge is: http://`<host`>:8080/handle-analysis/`<handler`>/toptentags/?limit=`<number`>, the limit param is optional and 2000 is used if not provided.
 
 To install it, provide an evironment with the following variables:
 

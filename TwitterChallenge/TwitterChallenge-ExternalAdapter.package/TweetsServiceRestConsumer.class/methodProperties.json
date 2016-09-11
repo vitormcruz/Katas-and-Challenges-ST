@@ -2,7 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
-		"fetchLastTweetsUpTo:fromHandler:" : "vitormcruz 9/7/2016 11:48",
+		"fetchLastTweetsUpTo:fromHandler:" : "vitormcruz 9/11/2016 01:23",
 		"initialize" : "vitormcruz 9/6/2016 20:11",
 		"nextIdQueryFor:" : "vitormcruz 9/7/2016 12:30",
 		"oAuthProvider:" : "vitormcruz 8/30/2016 14:55",

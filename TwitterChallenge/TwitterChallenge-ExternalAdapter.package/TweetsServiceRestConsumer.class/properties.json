@@ -4,7 +4,7 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "vitormcruz 8/24/2016 15:34",
+	"commentStamp" : "vitormcruz 9/11/2016 11:13",
 	"instvars" : [
 		"oauthProvider",
 		"MAX_TWEETS_CALL" ],

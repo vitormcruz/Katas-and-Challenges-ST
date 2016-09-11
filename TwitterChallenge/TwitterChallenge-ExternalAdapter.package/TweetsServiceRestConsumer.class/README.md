@@ -1,1 +1,1 @@
-I am a tweet respository that access the rest services provided by Twitter: https://dev.twitter.com/rest/public.
+I am a tweet service that access the rest services provided by Twitter Rest API: https://dev.twitter.com/rest/public.

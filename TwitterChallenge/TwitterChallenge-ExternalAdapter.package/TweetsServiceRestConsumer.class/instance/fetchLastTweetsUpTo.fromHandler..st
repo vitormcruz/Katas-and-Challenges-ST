@@ -2,15 +2,14 @@ fetching
 fetchLastTweetsUpTo: lastTweetsUpTo fromHandler: handler
 	| limit nextMaxId tweets lastSizeResult |
 	
-	limit := lastTweetsUpTo	ifNil: [ self class maxTweetsToUse ]
-                            ifNotNil: [ lastTweetsUpTo min: self class maxTweetsToUse ].
+   limit := self class maxTweetsToUse min: (lastTweetsUpTo	ifNil: [ self class maxTweetsToUse ]).
 
 	tweets := OrderedCollection new.
 	lastSizeResult := 1.
 	nextMaxId := ''.	
 	[ (tweets size < limit) & (lastSizeResult ~= 0)] whileTrue: 
 	[ | intermediateResult |
-		intermediateResult := NeoJSONObject	fromString: (oauthProvider httpGet: (self templateCallFor: handler) , nextMaxId).
+		intermediateResult := NeoJSONObject fromString: (oauthProvider httpGet: (self templateCallFor: handler) , nextMaxId).
 		lastSizeResult := intermediateResult size.
 		nextMaxId := self nextIdQueryFor: intermediateResult.
 		tweets addAll: intermediateResult.

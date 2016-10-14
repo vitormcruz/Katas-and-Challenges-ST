@@ -1,0 +1,7 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testGossipsBroadcatedWithNBusDriversSameRoute" : "vitor 10/11/2016 09:45",
+		"testGossipsBroadcatedWithOneBusDriver" : "vitor 10/11/2016 09:35",
+		"testGossipsNeverBroadcatedToAll" : "vitor 10/11/2016 09:32" } }

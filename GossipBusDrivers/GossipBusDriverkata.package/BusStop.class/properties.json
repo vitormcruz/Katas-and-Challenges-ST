@@ -1,0 +1,14 @@
+{
+	"category" : "GossipBusDriverkata",
+	"classinstvars" : [
+		"busStops" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BusStop",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

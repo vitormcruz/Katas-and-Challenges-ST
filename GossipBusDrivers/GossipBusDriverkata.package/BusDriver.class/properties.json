@@ -1,0 +1,15 @@
+{
+	"category" : "GossipBusDriverkata",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"routReadStream",
+		"gossipKnown" ],
+	"name" : "BusDriver",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

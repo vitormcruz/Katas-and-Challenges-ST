@@ -1,0 +1,15 @@
+{
+	"category" : "GossipBusDriverkata",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"routes",
+		"broadCastToAll" ],
+	"name" : "DayOfWork",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

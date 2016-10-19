@@ -1,0 +1,3 @@
+acessing
+currentBusStop
+	^ currentBusStop.

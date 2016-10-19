@@ -1,3 +1,3 @@
 accessing
 rout: aRout 
-	routReadStream := aRout readStream.
+	routeReadStream := aRout readStream.

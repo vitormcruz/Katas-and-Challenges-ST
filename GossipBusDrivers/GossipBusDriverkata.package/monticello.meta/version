@@ -1,1 +1,1 @@
-(name 'GossipBusDriverkata-vitor.1' message 'Primeira versão com estrutura básica implementada.' id 'fd3c1ab0-caa1-2949-b96e-66183917dc84' date '14 October 2016' time '4:09:31.408667 pm' author 'vitor' ancestors () stepChildren ())
+(name 'GossipBusDriverkata-vitor.2' message 'adicionados testes para o movimento do BusDriver e testes para verificar a criação dos BusStops' id '35136f22-3a10-ad44-a05f-ab6884d9fc60' date '19 October 2016' time '8:54:36.509628 am' author 'vitor' ancestors () stepChildren ())

@@ -1,0 +1,14 @@
+{
+	"category" : "GossipBusDriverkata-Test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BusStopTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

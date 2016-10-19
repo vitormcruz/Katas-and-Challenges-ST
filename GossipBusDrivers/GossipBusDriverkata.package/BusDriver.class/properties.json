@@ -4,10 +4,11 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "<historical>",
 	"instvars" : [
-		"routReadStream",
-		"gossipKnown" ],
+		"gossipKnown",
+		"currentBusStop",
+		"routeReadStream" ],
 	"name" : "BusDriver",
 	"pools" : [
 		 ],

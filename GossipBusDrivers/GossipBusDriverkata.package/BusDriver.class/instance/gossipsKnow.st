@@ -1,3 +1,3 @@
 testing
 gossipsKnow
-	^ gossipKnown.
+	^ gossipKnown clone.

@@ -3,8 +3,10 @@
 		"forRout:" : "vitor 10/19/2016 08:47" },
 	"instance" : {
 		"currentBusStop" : "vitor 10/17/2016 09:14",
-		"gossip" : "vitor 10/13/2016 09:26",
-		"gossipsKnow" : "vitor 10/13/2016 09:45",
-		"initialize" : "vitor 10/13/2016 09:47",
-		"move" : "vitor 10/17/2016 09:22",
+		"gossip" : "vitor 10/21/2016 09:56",
+		"gossipChannel" : "vitor 10/20/2016 09:06",
+		"gossipsKnow" : "vitor 10/21/2016 09:53",
+		"initialize" : "vitor 10/21/2016 10:02",
+		"listenGossip:" : "vitor 10/20/2016 09:38",
+		"move" : "vitor 10/20/2016 09:33",
 		"rout:" : "vitor 10/17/2016 09:22" } }

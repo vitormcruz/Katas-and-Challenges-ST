@@ -1,14 +1,14 @@
 {
 	"category" : "GossipBusDriverkata",
 	"classinstvars" : [
-		"busStops" ],
+		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "vitor 10/21/2016 10:17",
+	"commentStamp" : "vitor 10/21/2016 10:16",
 	"instvars" : [
 		 ],
-	"name" : "BusStop",
+	"name" : "BusDriverGossip",
 	"pools" : [
 		 ],
-	"super" : "Announcer",
+	"super" : "Announcement",
 	"type" : "normal" }

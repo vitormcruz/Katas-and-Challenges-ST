@@ -1,10 +1,10 @@
 tests
 testMoveHavingThreeStopRoute
 
-	| busDriver expectedBusStops |
+	| busDriver asasasas |
 	
-	expectedBusStops := {1 asBusStop. 2 asBusStop. 3 asBusStop.}.
-	busDriver := BusDriver forRout: expectedBusStops.
+	asasasas := {1 asBusStop. 2 asBusStop. 3 asBusStop.}.
+	busDriver := BusDriver forRout: asasasas.
 	busDriver move.
 	self assert: busDriver currentBusStop equals: 1 asBusStop .
 	busDriver move.

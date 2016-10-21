@@ -8,6 +8,11 @@ routes: aSetOfRoutesNumber
 	1 to: 480 do: [ :minute | 
 			busDrivers do: #move.
 			busDrivers do: #gossip.
-			broadCastToAll := busDrivers allSatisfy: [ :busDriver | busDriver gossipsKnow size ~= busDrivers size].
-	]
+			broadCastToAll := busDrivers allSatisfy: [ :busDriver | busDriver gossipsKnow size = busDrivers size].
+			broadCastToAll ifTrue: [ timeBroadcastGossipsAllDrivers := minute. 
+											 BusStop resetAll.
+											^ self.]
+	].
+
+	BusStop resetAll.
 		

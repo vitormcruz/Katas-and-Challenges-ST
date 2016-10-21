@@ -1,4 +1,5 @@
-as yet unclassified
+initialization
 initialize
 
-	gossipKnown := OrderedCollection new.
+	gossipKnown := Set new add: (BusDriverGossip of: self); yourself.
+	currentBusStop := -1 asBusStop.

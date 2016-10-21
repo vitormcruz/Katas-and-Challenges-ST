@@ -4,10 +4,11 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "vitor 10/21/2016 10:17",
 	"instvars" : [
 		"routes",
-		"broadCastToAll" ],
+		"broadCastToAll",
+		"timeBroadcastGossipsAllDrivers" ],
 	"name" : "DayOfWork",
 	"pools" : [
 		 ],

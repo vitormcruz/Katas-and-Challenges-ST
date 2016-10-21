@@ -2,5 +2,6 @@
 	"class" : {
 		"forRoutes:" : "vitor 10/11/2016 09:49" },
 	"instance" : {
-		"broadcastToAll" : "vitor 10/13/2016 09:50",
-		"routes:" : "vitor 10/17/2016 09:45" } }
+		"broadCastedToAll" : "vitor 10/20/2016 10:03",
+		"routes:" : "vitor 10/21/2016 10:13",
+		"timeBroadcastGossipsAllDrivers" : "vitor 10/20/2016 10:01" } }

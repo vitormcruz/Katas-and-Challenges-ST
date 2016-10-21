@@ -2,4 +2,5 @@
 	"class" : {
 		 },
 	"instance" : {
+		"tearDown" : "vitor 10/21/2016 10:12",
 		"testCreateBusStop" : "vitor 10/19/2016 08:53" } }

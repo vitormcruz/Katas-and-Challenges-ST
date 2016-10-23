@@ -1,4 +1,4 @@
-as yet unclassified
+instance creation
 of: aBusDriver 
 	busDriver := aBusDriver.
 	

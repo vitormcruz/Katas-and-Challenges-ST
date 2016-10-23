@@ -1,4 +1,0 @@
-reset
-resetAll
-
-	self initialize.

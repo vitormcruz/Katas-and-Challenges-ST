@@ -5,7 +5,7 @@ testSendNGossips
 	actualAnnouncements := Set new.
 	
 	busStop := 1 asBusStop.
-	busStop when: BusDriverGossip send: #value: to: [ :anAnnoucement | actualAnnouncements add: anAnnoucement ].
+	busStop weak when: BusDriverGossip send: #add: to: actualAnnouncements.
 	busDriver := BusDriver forRout: {busStop}.
 	
 	expectedAnnouncements := busDriver gossipsKnow add: otherGossip; yourself.

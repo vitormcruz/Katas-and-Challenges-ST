@@ -10,9 +10,6 @@ routes: aSetOfRoutesNumber
 			busDrivers do: #gossip.
 			broadCastToAll := busDrivers allSatisfy: [ :busDriver | busDriver gossipsKnow size = busDrivers size].
 			broadCastToAll ifTrue: [ timeBroadcastGossipsAllDrivers := minute. 
-											 BusStop resetAll.
 											^ self.]
 	].
-
-	BusStop resetAll.
 		

@@ -1,4 +1,4 @@
 instance creation
-for: anInteger 
+for: anInteger
 
-	^ busStops at: anInteger ifAbsent: [ busStops at: anInteger put: super new ].
+	^ busStops at: anInteger ifAbsentPut: [ self new ]

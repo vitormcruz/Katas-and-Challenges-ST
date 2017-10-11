@@ -1,9 +1,0 @@
-SmalltalkCISpec {
-  #loading : [
-	SCIMetacelloLoadSpec {
-		#configuration : 'Locations2csv',
-		#directory : '.',
-		#platforms : [ #pharo ]
-	}
-  ]
-}
